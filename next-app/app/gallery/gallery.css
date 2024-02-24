@@ -1,0 +1,10 @@
+.gallery {
+  background-image: url("/images.jpg");
+  object-fit: cover;
+  background-size: cover;
+  background-color: 0 0 0 0.3;
+}
+
+.grid {
+  background-color: rgba(0, 0, 0, 0.5);
+}
